@@ -6,3 +6,7 @@ Final project for Data Mining - BPJS Hackathon
 - Jesica Siburian (12S22018)
 - Krisnia Siahaan (12S22020)
 - Ruth Simanullang (12S22042)
+
+  ## Timeline
+  https://docs.google.com/spreadsheets/d/1TaEEOlFcu6NuzmoJduoBcgYI4an4m7RbYSFfk-g9vqE/edit?usp=sharing
+  
